@@ -9,8 +9,7 @@ Projeto de finalização do curso de Imersão IA, oferecido pela Alura e Google
 <p align="center">
 
 
-<a href="https://www.linkedin.com/in/lucas-haigert-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin - Lucas Haigert Oliveira"></a>
-</p>
+
 -------
 
 # Projeto Imersão IA: Alura + Google
@@ -87,5 +86,6 @@ Em um Phyton Notebook Utilize ou uma IDE, utilize os códigos dispońiveis no [r
 <p>
 
 ---
-
+<a href="https://www.linkedin.com/in/lucas-haigert-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin - Lucas Haigert Oliveira"></a>
+</p>
 ⌨️ Criado por [Lucas Haigert Oliveira](https://github.com/tilucasoliveira/)
