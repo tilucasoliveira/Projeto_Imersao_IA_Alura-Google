@@ -9,14 +9,6 @@ Projeto de finalização do curso de Imersão IA, oferecido pela Alura e Google
 <p align="center">
 
 
-
-
-
-<p align="center">
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_open_graph_L0PRwHT.width-1200.format-webp.webp" width="400" />
-</p>
-
-
 <a href="https://www.linkedin.com/in/lucas-haigert-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin - Lucas Haigert Oliveira"></a>
 </p>
 -------
