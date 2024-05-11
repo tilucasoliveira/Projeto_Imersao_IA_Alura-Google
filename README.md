@@ -30,7 +30,7 @@ O projeto tem com objetivo, gerar um aplicativo no Google Colab através do Goog
 - [Google Gemini](https://gemini.google.com/) - Para testar os prompts
 - [Google AI Studio](https://aistudio.google.com) - Para testar os prompts mais a fundo
 - [Google API Key](https://aistudio.google.com/app/apikey?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=) - Para conectar a aplicação desenvolvida com a API da Gemini
-
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 
@@ -41,16 +41,13 @@ GEMINI:
 
 - "pegue os principais ingredientes de uma receita de café da manhã, o título da receita, liste os alimentos e calcule aproximadamente as calorias desse prato."
 
-
 - "pegue os principais ingredientes de uma receita de almoço, o título da receita, liste os alimentos e calcule aproximadamente as calorias desse prato."
 
 - "pegue os principais ingredientes de uma receita de lanche da tarde, o título da receita, liste os alimentos e calcule aproximadamente as calorias desse prato."
 
 - "pegue os principais ingredientes de uma receita de jantar, o título da receita, liste os alimentos e calcule aproximadamente as calorias desse prato."
 
-
 - "pegue os principais ingredientes de uma receita de sobremesa,o título da receita, liste os alimentos e calcule aproximadamente as calorias desse prato."
-  
   
 - "Aleatoriamente, pegue os principais ingredientes de uma receita, escreva o tipo de refeição mais o título da receita, liste os alimentos e calcule aproximadamente as calorias desse prato."
 
